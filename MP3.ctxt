@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=filename
+comment0.target=MP3(java.lang.String)
+comment0.text=\n\ Constructor\ that\ takes\ the\ name\ of\ an\ MP3\ file.\n\ @param\ filename\ The\ file\ name\ of\ the\ MP3\ that\ we\ want\ to\ play.\n
+comment1.params=
+comment1.target=void\ close()
+comment1.text=\n\ Closing\ the\ player.\n
+comment2.params=
+comment2.target=boolean\ hasEnded()
+comment2.text=\n\ Determine\ if\ the\ player\ has\ reached\ the\ end\ of\ the\ song.\n\ @return\ True\ if\ the\ song\ has\ ended,\ false\ otherwise.\n
+comment3.params=
+comment3.target=void\ play()
+comment3.text=\n\ Loads\ the\ MP3\ file\ and\ plays\ it.\n
+comment4.params=
+comment4.target=void\ run()
+numComments=5

@@ -1,0 +1,44 @@
+Class documentation
+<---- javadoc command: ---->
+/Applications/BlueJ.app/Contents/JDK/Home/bin/javadoc
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.8
+-classpath
+/Applications/BlueJ.app/Contents/Resources/Java/bluejcore.jar:/Applications/BlueJ.app/Contents/Resources/Java/junit-4.8.2.jar:/Users/filip/Desktop/jl1.0.jar:/Applications/BlueJ.app/Contents/Resources/Java/userlib/pi4j-core.jar:/Applications/BlueJ.app/Contents/Resources/Java/userlib/pi4j-device.jar:/Applications/BlueJ.app/Contents/Resources/Java/userlib/pi4j-gpio-extension.jar:/Applications/BlueJ.app/Contents/Resources/Java/userlib/pi4j-service.jar:/Users/filip/Desktop/exc/MIS 4600 Computer Programming in Business/Project/terry-maze-game/+libs/jl1.0.1.jar:/Users/filip/Desktop/exc/MIS 4600 Computer Programming in Business/Project/terry-maze-game
+-d
+/Users/filip/Desktop/exc/MIS 4600 Computer Programming in Business/Project/terry-maze-game/doc
+-encoding
+x-MacRoman
+-charset
+x-MacRoman
+-docletpath
+/Applications/BlueJ.app/Contents/Resources/Java/bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+/Users/filip/Desktop/exc/MIS 4600 Computer Programming in Business/Project/terry-maze-game/Main.java
+<---- end of javadoc command ---->
+Loading source file /Users/filip/Desktop/exc/MIS 4600 Computer Programming in Business/Project/terry-maze-game/Main.java...
+Constructing Javadoc information...
+Standard Doclet version 1.8.0_66
+Building tree for all the packages and classes...
+Generating /Users/filip/Desktop/exc/MIS 4600 Computer Programming in Business/Project/terry-maze-game/doc/Main.html...
+/Users/filip/Desktop/exc/MIS 4600 Computer Programming in Business/Project/terry-maze-game/Main.java:9: warning - @Filip is an unknown tag.
+/Users/filip/Desktop/exc/MIS 4600 Computer Programming in Business/Project/terry-maze-game/Main.java:9: warning - @10/31/2016 is an unknown tag.
+Generating /Users/filip/Desktop/exc/MIS 4600 Computer Programming in Business/Project/terry-maze-game/doc/package-frame.html...
+Generating /Users/filip/Desktop/exc/MIS 4600 Computer Programming in Business/Project/terry-maze-game/doc/package-summary.html...
+Generating /Users/filip/Desktop/exc/MIS 4600 Computer Programming in Business/Project/terry-maze-game/doc/constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating /Users/filip/Desktop/exc/MIS 4600 Computer Programming in Business/Project/terry-maze-game/doc/allclasses-frame.html...
+Generating /Users/filip/Desktop/exc/MIS 4600 Computer Programming in Business/Project/terry-maze-game/doc/allclasses-noframe.html...
+Generating /Users/filip/Desktop/exc/MIS 4600 Computer Programming in Business/Project/terry-maze-game/doc/index.html...
+Generating /Users/filip/Desktop/exc/MIS 4600 Computer Programming in Business/Project/terry-maze-game/doc/stylesheet.css...
+2 warnings

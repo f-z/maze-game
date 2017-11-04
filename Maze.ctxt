@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=size
+comment0.target=Maze(int)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Maze\n\ @param\ size\ number\ of\ rooms\ in\ each\ row\ &\ col\n
+comment1.params=x\ y
+comment1.target=void\ generateMaze(int,\ int)
+comment1.text=\n\ Procedural\ maze\ generation\ algorithm.\n
+comment2.params=x\ y
+comment2.target=Room\ getRoom(int,\ int)
+comment2.text=\n\ @param\ x\ An\ int\ representing\ the\ x\ position\ of\ the\ room.\n\ @param\ y\ An\ int\ representing\ the\ y\ position\ of\ the\ room.\n\ @return\ Room\ Returns\ a\ specific\ room\ from\ the\ random\ maze.\n
+comment3.params=
+comment3.target=int\ getSize()
+comment3.text=\n\ @return\ size\ The\ size\ of\ the\ maze.\n
+comment4.params=n
+comment4.target=int\ randomNum(int)
+comment4.text=\n\ @param\ n\ The\ upper\ bound\ of\ the\ random\ number\ range.\n\ @return\ num\ A\ random\ number\ within\ [0,\ n).\n
+numComments=5
